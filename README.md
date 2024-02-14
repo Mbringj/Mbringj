@@ -22,13 +22,7 @@ As a software developperr, I enjoy using my obsessive attention to detail, my un
 <h3 align="left">Languages and Tools:</h3>
   
   
-  ## Github Stats 🔥
+  ## Top languages 🔥
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MbringJ&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="MbringJ" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MbringJ&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="MbringJ" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MbringJ&show_icons=true&locale=en&theme=tokyonight" alt="MbringJ" /></p>
-
-## Work time for this week 🔥
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sphinc)](https://github.com/anuraghazra/github-readme-stats)
