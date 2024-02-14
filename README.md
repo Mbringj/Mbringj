@@ -17,12 +17,8 @@ As a software developperr, I enjoy using my obsessive attention to detail, my un
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: mbringjeremy@gmail.com;
-
-
-<h3 align="left">Languages and Tools:</h3>
-  
-  
-  ## Top languages 🔥
+    
+## Top languages 🔥
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MbringJ&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="MbringJ" /></p>
 
