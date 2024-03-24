@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am a full-stack junior developper. I love programming, writing, speaking and traveling.
+I am a full-stack junior developper. I love programming and IT in general, writing, speaking and traveling.
 
 As a software developperr, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
